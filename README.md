@@ -22,7 +22,7 @@ public int[] sort(int[] data) {
 }
 ```
 
-## Selection
+## Selection Sort
 
 ```java
 public void sort(int[] data) {
